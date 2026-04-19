@@ -184,7 +184,7 @@ Example: `alice.turner@email.com` -> `alice.turner%40email.com`.
    - local backend + frontend commands, or
    - `docker-compose up --build`
 
-## Final pre-submit checklist
+## Final pre-submit checklist (all done!)
 
 - Backend starts successfully
 - Frontend starts successfully
