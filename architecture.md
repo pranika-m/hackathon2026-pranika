@@ -1,3 +1,6 @@
+## Architecture Diagram
+
+```mermaid
 graph TB
     subgraph Ingestion["Ingestion and Context Loading"]
         A["1. Ingest Ticket"] --> B["2. Fetch Customer Data"]
@@ -57,3 +60,4 @@ graph TB
     style Resolution fill:#e8f5e9
     style Tools fill:#fce4ec
     style Logging fill:#f1f8e9
+```
